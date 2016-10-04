@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1475447599 source:e:\c++\modul5\main.cpp
+	<iostream>
+	"circularlist.h"
+
+1475447440 source:e:\c++\modul5\circularlist.cpp
+	"circularlist.h"
+
+1475434291 e:\c++\modul5\circularlist.h
+	<iostream>
+
+1475393440 source:d:\telkom university\sturktur data\modul5\circularlist.cpp
+	"circularlist.h"
+
+1475380291 d:\telkom university\sturktur data\modul5\circularlist.h
+	<iostream>
+
+1475393732 source:d:\telkom university\sturktur data\modul5\main.cpp
+	<iostream>
+	"circularlist.h"
+
